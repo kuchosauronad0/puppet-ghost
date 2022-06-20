@@ -1,4 +1,5 @@
 # ghost
+[![Build status](https://ci.appveyor.com/api/projects/status/nh85focgd6j038jr/branch/master?svg=true)](https://ci.appveyor.com/project/kuchosauronad0/puppet-ghost/branch/master)
 
 Welcome to your new module. A short overview of the generated parts can be found
 in the [PDK documentation][1].
